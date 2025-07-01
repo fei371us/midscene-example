@@ -13,10 +13,13 @@
         "@azure/identity": "4.5.0",
         "@midscene/core": "latest",
         "@midscene/shared": "latest",
-        "dotenv": "^16.4.5",
+        "@types/dotenv": "^6.1.1",
+        "@types/node": "^24.0.7",
+        "dotenv": "^16.6.1",
         "openai": "4.57.1",
         "puppeteer": "^23.4.0",
         "tsx": "4.20.1",
+        "typescript": "^5.8.3",
         "vitest": "^2.1.8"
     }
 }
